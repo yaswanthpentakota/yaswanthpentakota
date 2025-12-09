@@ -1,31 +1,56 @@
-# 👋 Hi, I'm yaswanth!
+<h1 align="center">👋 Hi, I'm <span style="color:#00A8E8;">Pentakota Yaswanth</span></h1> <div align="center">
+💻 Full-Stack Developer | 📱 React Native Developer | ⚡ MERN Stack | 🧠 Competitive Programmer
 
-🎯 Aspiring Web Developer  
-💡 Love learning JavaScript & React  
-🚀 Currently working on cool projects
+🌟 I love turning ideas into real products using clean UI, efficient backend & modern tools.
 
-### 📬 Connect With Me:
-- Email: pentakotayaswanth11@gmail.com
+</div>
+🚀 About Me
 
-### 🔧 Skills:
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+🔭 Currently working as React Native Full-Stack Developer Intern
 
-Thanks for visiting my profile! ⭐
+💡 Skilled in React, React Native, Node, MongoDB, Express, HTML, CSS, JS
 
-<!--
-**yaswanthpentakota/yaswanthpentakota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Solved 350+ coding problems
 
-Here are some ideas to get you started:
+🎯 Passionate about building apps, UI/UX, animations & full-stack solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech CSE – ACET (CGPA: 9.02)
+
+🛠️ Tech Stack
+<div align="center">
+Category	Technologies
+Languages	C, C++, JavaScript, Python
+Frontend	React, React Native, HTML, CSS
+Backend	Node.js, Express.js
+Database	MongoDB, MySQL, Oracle
+Tools	Git, GitHub, VS Code, VMware
+</div>
+🌟 GitHub Stats
+<div align="center">
+
+
+<br/>
+
+
+</div>
+🔥 Streak Stats
+<div align="center">
+
+</div>
+🚀 Featured Projects
+
+👉 SJ Connect & Career Bridge (HTML/CSS/JS)
+👉 Zomato Clone (React Native + Node + MongoDB)
+👉 Portfolio Website (React)
+
+📫 Reach Me At
+
+📧 Email — pentakotayaswanth11@gmail.com
+
+🔗 LinkedIn — https://www.linkedin.com/in/yaswanth-pentakota
+
+🌐 Portfolio — https://classy-blini-1ce038.netlify.app/
+
+<div align="center">
+⭐ Thanks for visiting! Connect, collaborate & build something awesome!
+</div>
