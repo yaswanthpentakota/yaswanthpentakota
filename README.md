@@ -1,4 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm yaswanth!
+
+🎯 Aspiring Web Developer  
+💡 Love learning JavaScript & React  
+🚀 Currently working on cool projects
+
+### 📬 Connect With Me:
+- Email: pentakotayaswanth11@gmail.com
+
+### 🔧 Skills:
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+Thanks for visiting my profile! ⭐
 
 <!--
 **yaswanthpentakota/yaswanthpentakota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
