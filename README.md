@@ -31,7 +31,7 @@
 ### 🧑‍🎓 Education  
 🎓 **B.Tech – Computer Science & Engineering**  
 🏫 *Aditya College of Engineering and Technology*  
-📊 **CGPA:** 9.02  
+📊 **CGPA:** 9.00
 📅 **2023 – 2027**
 
 ---
